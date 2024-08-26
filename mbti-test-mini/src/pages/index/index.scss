@@ -1,0 +1,35 @@
+.indexPage {
+  background: #CECBBC;
+  height: 131mm;
+
+  .at-article__h1 {
+    margin-top: 30rpx;
+    font-size: 48rpx;
+    line-height: 72rpx;
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .at-article__h2 {
+    color: black;
+    margin-bottom: 48px;
+    text-align: center;
+  }
+
+  .enterBtn{
+    width: 60vw;
+  }
+
+  .headerBg{
+    display: inline-block;
+    height: 1024px;
+    overflow: hidden;
+    width: 768px;
+  }
+
+  .at-button--primary{
+    background: #9F9E95;
+    border-color: #9F9E95;
+  }
+}

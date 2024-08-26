@@ -1,0 +1,32 @@
+.resultPage {
+  background: #CECBBC;
+  height: 131mm;
+}
+
+.at-article__h1 {
+  color: #fff;
+  padding-top: 48px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.at-article__h2 {
+  color: #fff;
+  margin-bottom: 48px;
+
+  .enterBtn {
+    width: 60vw;
+  }
+
+  .at-button--primary {
+    background: #7293a0;
+    border-color: #7293a0;
+  }
+  .headerBg{
+    display: inline-block;
+    height: 1024px;
+    overflow: hidden;
+    width: 768px;
+  }
+
+}

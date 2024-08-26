@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cb0048b-6753-49fc-bd40-f9f3afbaa82f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/config/RedissonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/config/VipSchedulerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/StatisticController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/statistic/AppAnswerCountDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/statistic/AppAnswerResultCountDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/AppStatisticPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/AppController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/ScoringResultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/ScoringResultController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/UserAnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/controller/UserAnswerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/generate/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/generate/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/AppMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/AppMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/QuestionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/QuestionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/ScoringResultMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/ScoringResultMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/UserAnswerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/mapper/UserAnswerMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/app/AppUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/question/QuestionUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/question/QuestionUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/scoringResult/ScoringResultUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/dto/userAnswer/UserAnswerUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/AppScoringStrategyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/AppScoringStrategyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/AppTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/AppTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/ReviewStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/enums/ReviewStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/vo/AppVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/vo/AppVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/vo/UserAnswerVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/model/vo/UserAnswerVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/scoring/AiTestScoringStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/scoring/AiTestScoringStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/scoring/CustomScoreScoringStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/scoring/CustomScoreScoringStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/ScoringResultService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/ScoringResultService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/UserAnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/UserAnswerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/AppServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/AppServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/ScoringResultServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/ScoringResultServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/UserAnswerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/java/com/yupi/yudada/service/impl/UserAnswerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateController.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateController.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateService.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateService.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateServiceImpl.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/TemplateServiceImpl.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateAddRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateAddRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateEditRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateEditRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateQueryRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateUpdateRequest.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateVO.java.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-backend/src/main/resources/templates/model/TemplateVO.java.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/api/fileController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/api/fileController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/api/questionController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/api/questionController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/api/typings.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/api/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/api/userAnswerController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/api/userAnswerController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/components/AppCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/components/AppCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/components/MdViewer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/components/MdViewer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/router/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/router/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/views/add/AddAppPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/AddAppPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/src/views/answer/DoAnswerPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/src/views/answer/DoAnswerPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yudada-frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/yudada-frontend/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mmbird30&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:mmbird30/AiTestPlatform.git&quot;,
+    &quot;accountId&quot;: &quot;a3ddeae0-dec1-41ea-8302-4189a5963b39&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kVgjBjTi58H157KLEP8CazGuPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/$_code/Java项目/AI答题应用平台/yudada-backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.openapi.executor&quot;: &quot;Run&quot;,
+    &quot;npm.serve.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\$_code\\Java项目\\AI答题应用平台\\yudada-frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="npm.openapi">
+    <configuration name="openapi" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/yudada-frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="openapi" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/yudada-frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.openapi" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7cb0048b-6753-49fc-bd40-f9f3afbaa82f" name="更改" comment="" />
+      <created>1723374290437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723374290437</updated>
+      <workItem from="1724425755119" duration="764000" />
+      <workItem from="1724506453899" duration="21627000" />
+      <workItem from="1724670778055" duration="3723000" />
+      <workItem from="1724730753194" duration="186000" />
+      <workItem from="1724746852046" duration="11233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mbti-test-mini" />
+      <path value="$PROJECT_DIR$/yudada-backend" />
+      <path value="$PROJECT_DIR$/yudada-frontend" />
+    </ignored-roots>
+  </component>
+</project>

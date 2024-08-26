@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cb0048b-6753-49fc-bd40-f9f3afbaa82f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AI答题应用平台.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.idea/mbti-test-mini.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/config/dev.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/config/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/config/prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/project.private.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/project.tt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/Components/GlobalFooter/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/Components/GlobalFooter/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/assets/headerBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/data/question_results.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/data/questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/doQuestion/index.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/doQuestion/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/doQuestion/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/index/index.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/index/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/index/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/result/index.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/result/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/pages/result/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/src/utils/bizUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbti-test-mini/types/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-backend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/openapi.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/public/AILogo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/access/accessEnum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/access/checkAccess.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/access/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/appController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/fileController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/postController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/postFavourController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/postThumbController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/questionController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/scoringResultController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/userAnswerController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/api/userController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/assets/AILogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/AppCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/GlobalHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/MdEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/MdViewer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/components/PictureUploader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/constant/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/layouts/BasicLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/layouts/UserLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/router/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/store/userStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/AboutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/HomePage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/NoAuthPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/AddAppPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/AddQuestionPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/AddScoringResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/components/AiGenerateQuestionDrawer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/add/components/ScoringResultTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/admin/AdminAppPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/admin/AdminQuestionPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/admin/AdminScoringResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/admin/AdminUserAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/admin/AdminUserPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/answer/AnswerResultPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/answer/DoAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/answer/MyAnswerPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/app/AppDetailPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/user/UserLoginPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/src/views/user/UserRegisterPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yudada-frontend/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kVgjBjTi58H157KLEP8CazGuPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.serve.executor": "Run",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "E:\\$_code\\Java项目\\AI答题应用平台\\yudada-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/yudada-frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7cb0048b-6753-49fc-bd40-f9f3afbaa82f" name="更改" comment="" />
+      <created>1723374290437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723374290437</updated>
+      <workItem from="1724425755119" duration="764000" />
+      <workItem from="1724506453899" duration="16810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mbti-test-mini" />
+      <path value="$PROJECT_DIR$/yudada-backend" />
+      <path value="$PROJECT_DIR$/yudada-frontend" />
+    </ignored-roots>
+  </component>
+</project>

@@ -1,7 +1,7 @@
 # 线上配置文件
 #
 server:
-  port: 8090
+  port: 8101
 spring:
   # 数据库配置
   # todo 需替换配置
@@ -26,5 +26,5 @@ mybatis-plus:
 knife4j:
   basic:
     enable: true
-    username: root
+    username: mmbird
     password: 123456
